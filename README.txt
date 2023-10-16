@@ -1,0 +1,1 @@
+These are the solutions to CENG113 class exercises
